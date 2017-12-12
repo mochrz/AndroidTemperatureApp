@@ -1,1 +1,2 @@
-# AndroidTemperatureApp
+# mojerepozytorium
+Moje pierwsze repozytorium
